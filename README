@@ -1,0 +1,9 @@
+This program will walk the directory it is run in and create a file
+containing a list of all subdirectories and files.
+
+This program is an exercise to learn how to use os.walk and other 
+Python features with an eye to including them in future projects.
+
+Future plans for this program include figuring out how to better 
+organize the results, adding more information, and perhaps allowing
+the user to specify a directory when running on the command line.
